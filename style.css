@@ -1,0 +1,57 @@
+body{
+    padding: 15px;;
+    background-color: silver;
+    background-image: url(./img/background.png);
+    background-repeat: no-repeat;
+    background-size: 110%;
+}
+html a{
+    text-decoration: none;
+}
+h1 {
+    padding: auto;
+    color: rgb(59, 55, 55);
+    font-size: 60px;
+    font-family: sans-serif;
+    margin: 0px;
+
+   
+
+}
+img{
+    padding: 0px;
+    width: 250px;
+    border: 0px;
+    
+   
+}
+nav{
+font-size: 20px;
+font-family: sans-serif;
+color: rgb(240, 245, 244);
+
+
+}
+nav img{
+    border-radius: 55%;
+}
+
+.statia{
+    text-align: right;
+   
+
+}
+.statia h1{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+  ;
+}
+
+footer{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(139, 134, 134);
+    margin: auto ;
+    text-align: center;
+}
